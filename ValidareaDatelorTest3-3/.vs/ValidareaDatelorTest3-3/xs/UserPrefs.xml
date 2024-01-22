@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FEFC9E07-F209-4D39-962C-F9C3A989EFC4}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ValidareaDatelorTest3-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValidareaDatelorTest3-3/Program.cs">
+    <Files>
+      <File FileName="ValidareaDatelorTest3-3/Program.cs" Line="71" Column="22" />
+      <File FileName="../JuniorMindProj1/JuniorMindProj1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ValidareaDatelorTest3-3" expanded="True">
+            <Node name="ValidareaDatelorTest3-3" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

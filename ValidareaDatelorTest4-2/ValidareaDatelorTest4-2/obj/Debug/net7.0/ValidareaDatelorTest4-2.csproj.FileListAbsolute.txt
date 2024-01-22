@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ValidareaDatelorTest4-2.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ValidareaDatelorTest4-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ValidareaDatelorTest4-2.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ValidareaDatelorTest4-2.AssemblyInfo.cs
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ValidareaDatelorTest4-2.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/bin/Debug/net7.0/ValidareaDatelorTest4-2
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/bin/Debug/net7.0/ValidareaDatelorTest4-2.deps.json
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/bin/Debug/net7.0/ValidareaDatelorTest4-2.runtimeconfig.json
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/bin/Debug/net7.0/ValidareaDatelorTest4-2.dll
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/bin/Debug/net7.0/ValidareaDatelorTest4-2.pdb
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ValidareaDatelorTest4-2.dll
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/refint/ValidareaDatelorTest4-2.dll
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ValidareaDatelorTest4-2.pdb
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ValidareaDatelorTest4-2.genruntimeconfig.cache
+/Users/simonagog/Projects/ValidareaDatelorTest4-2/ValidareaDatelorTest4-2/obj/Debug/net7.0/ref/ValidareaDatelorTest4-2.dll

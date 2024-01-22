@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/bin/Debug/net7.0/EnumerariSiStructuriTest2-2
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/bin/Debug/net7.0/EnumerariSiStructuriTest2-2.deps.json
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/bin/Debug/net7.0/EnumerariSiStructuriTest2-2.runtimeconfig.json
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/bin/Debug/net7.0/EnumerariSiStructuriTest2-2.dll
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/bin/Debug/net7.0/EnumerariSiStructuriTest2-2.pdb
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/EnumerariSiStructuriTest2-2.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/EnumerariSiStructuriTest2-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/EnumerariSiStructuriTest2-2.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/EnumerariSiStructuriTest2-2.AssemblyInfo.cs
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/EnumerariSiStructuriTest2-2.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/EnumerariSiStructuriTest2-2.dll
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/refint/EnumerariSiStructuriTest2-2.dll
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/EnumerariSiStructuriTest2-2.pdb
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/EnumerariSiStructuriTest2-2.genruntimeconfig.cache
+/Users/simonagog/Projects/EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/obj/Debug/net7.0/ref/EnumerariSiStructuriTest2-2.dll

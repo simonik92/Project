@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{72248AEE-52E2-45AC-A24D-E810B0C31ECD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CautareSiOrdonareTest2-2/Program.cs">
+    <Files>
+      <File FileName="CautareSiOrdonareTest2-2/Program.cs" Line="47" Column="50" />
+      <File FileName="../CautareSiOrdonareTest2-1/CautareSiOrdonareTest2-1/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CautareSiOrdonareTest2-2" expanded="True">
+            <Node name="CautareSiOrdonareTest2-2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CautareSiOrdonareTest2-2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

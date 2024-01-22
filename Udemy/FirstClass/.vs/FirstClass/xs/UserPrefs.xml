@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F1031634-8172-4E8E-806C-792BC0383AC3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FirstClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstClass/Car.cs">
+    <Files>
+      <File FileName="FirstClass/Program.cs" Line="8" Column="43" />
+      <File FileName="FirstClass/Car.cs" Line="31" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstClass" expanded="True">
+            <Node name="FirstClass" expanded="True">
+              <Node name="Car.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

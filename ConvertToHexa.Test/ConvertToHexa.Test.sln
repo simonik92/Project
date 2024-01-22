@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToHexa.Test", "ConvertToHexa.Test\ConvertToHexa.Test.csproj", "{375955A7-FCFE-4791-BDDA-E06BAE84F191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToHexa", "ConvertToHexa\ConvertToHexa.csproj", "{EA3E67FC-0D22-4F1F-8C09-E12BB9716923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375955A7-FCFE-4791-BDDA-E06BAE84F191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375955A7-FCFE-4791-BDDA-E06BAE84F191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375955A7-FCFE-4791-BDDA-E06BAE84F191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375955A7-FCFE-4791-BDDA-E06BAE84F191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3E67FC-0D22-4F1F-8C09-E12BB9716923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3E67FC-0D22-4F1F-8C09-E12BB9716923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3E67FC-0D22-4F1F-8C09-E12BB9716923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3E67FC-0D22-4F1F-8C09-E12BB9716923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BCA24BF-68EA-403B-98D8-A5E926BAEE73}
+	EndGlobalSection
+EndGlobal

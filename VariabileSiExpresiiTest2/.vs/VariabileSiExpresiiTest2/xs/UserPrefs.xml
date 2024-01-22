@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CE447E87-1B20-43D1-8067-8A03338D570A}|Default">
+  <MonoDevelop.Ide.ItemProperties.VariabileSiExpresiiTest2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../PlayGround/PlayGround/Program.cs">
+    <Files>
+      <File FileName="../PlayGround/PlayGround/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VariabileSiExpresiiTest2" expanded="True">
+            <Node name="VariabileSiExpresiiTest2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

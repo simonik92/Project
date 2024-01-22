@@ -1,0 +1,12 @@
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/bin/Debug/net7.0/SoccerTeamsRanking.deps.json
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/bin/Debug/net7.0/SoccerTeamsRanking.dll
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/bin/Debug/net7.0/SoccerTeamsRanking.pdb
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/SoccerTeamsRanking.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/SoccerTeamsRanking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/SoccerTeamsRanking.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/SoccerTeamsRanking.AssemblyInfo.cs
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/SoccerTeamsRanking.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/SoccerTeamsRanking.dll
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/refint/SoccerTeamsRanking.dll
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/SoccerTeamsRanking.pdb
+/Users/simonagog/Projects/SoccerTeamsRanking.Test/SoccerTeamsRanking/obj/Debug/net7.0/ref/SoccerTeamsRanking.dll

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{ABBEFB32-7091-4082-9C65-4D43C140EC8F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PascalTriangle.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PascalTriangle.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="PascalTriangle.Test/UnitTest1.cs" Line="8" Column="19" />
+      <File FileName="PascalTriangle/Program.cs" Line="36" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PascalTriangle.Test" expanded="True">
+            <Node name="PascalTriangle" expanded="True" />
+            <Node name="PascalTriangle.Test" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PascalTriangle.Test" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/bin/Debug/net7.0/PascalTriangle.deps.json
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/bin/Debug/net7.0/PascalTriangle.dll
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/bin/Debug/net7.0/PascalTriangle.pdb
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/PascalTriangle.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/PascalTriangle.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/PascalTriangle.AssemblyInfo.cs
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/PascalTriangle.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/PascalTriangle.dll
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/refint/PascalTriangle.dll
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/PascalTriangle.pdb
+/Users/simonagog/Projects/PascalTriangle.Test/PascalTriangle/obj/Debug/net7.0/ref/PascalTriangle.dll

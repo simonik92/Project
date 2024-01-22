@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{556FF55B-C332-4A83-B31C-7ED725327714}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipuriDeBazaTest3/Program.cs">
+    <Files>
+      <File FileName="TipuriDeBazaTest3/Program.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TipuriDeBazaTest3" expanded="True">
+            <Node name="TipuriDeBazaTest3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TipuriDeBazaTest3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

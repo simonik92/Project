@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "37iiK/8z2bu8wTOobZffCsU9y7rjm49WunUMeft58yGUXKV6fKVV7vJLwOq8QVk8vNE0zVyGf/j5DVRXgJyv7w==",
+  "success": true,
+  "projectFilePath": "/Users/simonagog/Projects/Examen/Examen/Examen.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonagog/.nuget/packages/microsoft.codeanalysis.netanalyzers/8.0.0/microsoft.codeanalysis.netanalyzers.8.0.0.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/roslynator.analyzers/4.7.0/roslynator.analyzers.4.7.0.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/sonaranalyzer.csharp/9.14.0.81108/sonaranalyzer.csharp.9.14.0.81108.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

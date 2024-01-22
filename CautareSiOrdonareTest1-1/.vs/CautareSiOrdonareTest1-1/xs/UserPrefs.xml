@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3339E6AB-636D-4C37-8490-D360EAFFA562}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CautareSiOrdonareTest1-1/Program.cs">
+    <Files>
+      <File FileName="CautareSiOrdonareTest1-1/Program.cs" Line="33" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CautareSiOrdonareTest1-1" expanded="True">
+            <Node name="CautareSiOrdonareTest1-1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CautareSiOrdonareTest1-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

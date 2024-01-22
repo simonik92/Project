@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PfRxaXikrqs6yNj8XvEu6qClyUPFb7VdptsLTCuXTU7I8H2D3kqRwAH7C2a+vUlFGXsKiit0jfOnsbysybEnDQ==",
+  "success": true,
+  "projectFilePath": "/Users/simonagog/Projects/CautareSiOrdonareTest2-5/CautareSiOrdonareTest2-5/CautareSiOrdonareTest2-5.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonagog/.nuget/packages/microsoft.codeanalysis.netanalyzers/8.0.0/microsoft.codeanalysis.netanalyzers.8.0.0.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/roslynator.analyzers/4.6.4/roslynator.analyzers.4.6.4.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/sonaranalyzer.csharp/9.14.0.81108/sonaranalyzer.csharp.9.14.0.81108.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

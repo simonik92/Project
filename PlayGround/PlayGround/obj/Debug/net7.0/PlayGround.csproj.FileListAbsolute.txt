@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/PlayGround/PlayGround/bin/Debug/net7.0/PlayGround
+/Users/simonagog/Projects/PlayGround/PlayGround/bin/Debug/net7.0/PlayGround.deps.json
+/Users/simonagog/Projects/PlayGround/PlayGround/bin/Debug/net7.0/PlayGround.runtimeconfig.json
+/Users/simonagog/Projects/PlayGround/PlayGround/bin/Debug/net7.0/PlayGround.dll
+/Users/simonagog/Projects/PlayGround/PlayGround/bin/Debug/net7.0/PlayGround.pdb
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/PlayGround.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/PlayGround.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/PlayGround.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/PlayGround.AssemblyInfo.cs
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/PlayGround.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/PlayGround.dll
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/refint/PlayGround.dll
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/PlayGround.pdb
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/PlayGround.genruntimeconfig.cache
+/Users/simonagog/Projects/PlayGround/PlayGround/obj/Debug/net7.0/ref/PlayGround.dll

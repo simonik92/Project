@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarm.Test", "Alarm.Test\Alarm.Test.csproj", "{B4F1BAC4-A406-4BD4-B8BA-0C26427F3DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarm", "Alarm\Alarm.csproj", "{29E8635E-ABD2-45C3-B9E4-767755A9181D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F1BAC4-A406-4BD4-B8BA-0C26427F3DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F1BAC4-A406-4BD4-B8BA-0C26427F3DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F1BAC4-A406-4BD4-B8BA-0C26427F3DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F1BAC4-A406-4BD4-B8BA-0C26427F3DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E8635E-ABD2-45C3-B9E4-767755A9181D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E8635E-ABD2-45C3-B9E4-767755A9181D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E8635E-ABD2-45C3-B9E4-767755A9181D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E8635E-ABD2-45C3-B9E4-767755A9181D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A854EFE3-6D16-402B-809C-F09657EBFBAD}
+	EndGlobalSection
+EndGlobal

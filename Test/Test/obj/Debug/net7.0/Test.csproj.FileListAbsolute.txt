@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/Test/Test/bin/Debug/net7.0/Test
+/Users/simonagog/Projects/Test/Test/bin/Debug/net7.0/Test.deps.json
+/Users/simonagog/Projects/Test/Test/bin/Debug/net7.0/Test.runtimeconfig.json
+/Users/simonagog/Projects/Test/Test/bin/Debug/net7.0/Test.dll
+/Users/simonagog/Projects/Test/Test/bin/Debug/net7.0/Test.pdb
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/Test.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/Test.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/Test.AssemblyInfo.cs
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/Test.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/Test.dll
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/refint/Test.dll
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/Test.pdb
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/Test.genruntimeconfig.cache
+/Users/simonagog/Projects/Test/Test/obj/Debug/net7.0/ref/Test.dll

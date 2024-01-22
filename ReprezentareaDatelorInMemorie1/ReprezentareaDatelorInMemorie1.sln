@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReprezentareaDatelorInMemorie1", "ReprezentareaDatelorInMemorie1\ReprezentareaDatelorInMemorie1.csproj", "{CBEBFE4C-E3EF-4409-8DEC-ED69AE9E2C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEBFE4C-E3EF-4409-8DEC-ED69AE9E2C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEBFE4C-E3EF-4409-8DEC-ED69AE9E2C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEBFE4C-E3EF-4409-8DEC-ED69AE9E2C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEBFE4C-E3EF-4409-8DEC-ED69AE9E2C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {120765B1-81E4-412F-BCB7-FFF11A0C2276}
+	EndGlobalSection
+EndGlobal

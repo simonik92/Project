@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/bin/Debug/net7.0/TipuriDeBazaTest3
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/bin/Debug/net7.0/TipuriDeBazaTest3.deps.json
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/bin/Debug/net7.0/TipuriDeBazaTest3.runtimeconfig.json
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/bin/Debug/net7.0/TipuriDeBazaTest3.dll
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/bin/Debug/net7.0/TipuriDeBazaTest3.pdb
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/TipuriDeBazaTest3.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/TipuriDeBazaTest3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/TipuriDeBazaTest3.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/TipuriDeBazaTest3.AssemblyInfo.cs
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/TipuriDeBazaTest3.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/TipuriDeBazaTest3.dll
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/refint/TipuriDeBazaTest3.dll
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/TipuriDeBazaTest3.pdb
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/TipuriDeBazaTest3.genruntimeconfig.cache
+/Users/simonagog/Projects/TipuriDeBazaTest3/TipuriDeBazaTest3/obj/Debug/net7.0/ref/TipuriDeBazaTest3.dll

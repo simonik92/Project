@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F7A4D21B-F32E-4980-9E8C-2AAAC0445724}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ValidareaDatelor4-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/simonagog/Projects/ValidareaDatelor4-3/ValidareaDatelor4-3/Program.cs" relfile="ValidareaDatelor4-3/Program.cs" line="7" column="1" />
+      <Breakpoint file="/Users/simonagog/Projects/ValidareaDatelor4-3/ValidareaDatelor4-3/Program.cs" relfile="ValidareaDatelor4-3/Program.cs" line="100" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValidareaDatelor4-3/Program.cs">
+    <Files>
+      <File FileName="ValidareaDatelor4-3/Program.cs" Line="249" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ValidareaDatelor4-3" expanded="True">
+            <Node name="ValidareaDatelor4-3" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

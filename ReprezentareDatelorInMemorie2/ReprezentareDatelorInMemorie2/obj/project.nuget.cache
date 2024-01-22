@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYqePXyAzQ7p0EI3cg8+9jApbOkYBUYs25/hY1imgcUCG0Bj9THJ+N53EzwUgiHpRTlnfLUhQVNf2+AcgVC2Tw==",
+  "success": true,
+  "projectFilePath": "/Users/simonagog/Projects/ReprezentareDatelorInMemorie2/ReprezentareDatelorInMemorie2/ReprezentareDatelorInMemorie2.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonagog/.nuget/packages/microsoft.codeanalysis.netanalyzers/7.0.4/microsoft.codeanalysis.netanalyzers.7.0.4.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/roslynator.analyzers/4.6.1/roslynator.analyzers.4.6.1.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/sonaranalyzer.csharp/9.12.0.78982/sonaranalyzer.csharp.9.12.0.78982.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B4F1BAC4-A406-4BD4-B8BA-0C26427F3DF0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Alarm.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alarm.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="Alarm.Test/UnitTest1.cs" Line="89" Column="44" />
+      <File FileName="Alarm/Class.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alarm.Test">
+            <Node name="Alarm" expanded="True" />
+            <Node name="Alarm.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

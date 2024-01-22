@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{94444026-D4BA-4692-95A3-534C54B6E2EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.JuniorMindProj1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JuniorMindProj1/Program.cs">
+    <Files>
+      <File FileName="JuniorMindProj1/Program.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JuniorMindProj1" expanded="True">
+            <Node name="JuniorMindProj1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

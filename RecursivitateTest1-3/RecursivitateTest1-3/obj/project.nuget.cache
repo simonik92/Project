@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4RVtNb3aS6Xi3vlQ8/cGdFKuhFV0QQyBvIe+SY/+s82fGkPxG7Bmxmu2voqicAMAIYE1i5Uc0BIPHb3dPok7qQ==",
+  "success": true,
+  "projectFilePath": "/Users/simonagog/Projects/RecursivitateTest1-3/RecursivitateTest1-3/RecursivitateTest1-3.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonagog/.nuget/packages/microsoft.codeanalysis.netanalyzers/7.0.4/microsoft.codeanalysis.netanalyzers.7.0.4.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/roslynator.analyzers/4.6.2/roslynator.analyzers.4.6.2.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/sonaranalyzer.csharp/9.12.0.78982/sonaranalyzer.csharp.9.12.0.78982.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

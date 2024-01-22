@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/bin/Debug/net7.0/VariabileSiExpresiiTest3
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/bin/Debug/net7.0/VariabileSiExpresiiTest3.deps.json
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/bin/Debug/net7.0/VariabileSiExpresiiTest3.runtimeconfig.json
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/bin/Debug/net7.0/VariabileSiExpresiiTest3.dll
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/bin/Debug/net7.0/VariabileSiExpresiiTest3.pdb
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/VariabileSiExpresiiTest3.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/VariabileSiExpresiiTest3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/VariabileSiExpresiiTest3.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/VariabileSiExpresiiTest3.AssemblyInfo.cs
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/VariabileSiExpresiiTest3.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/VariabileSiExpresiiTest3.dll
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/refint/VariabileSiExpresiiTest3.dll
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/VariabileSiExpresiiTest3.pdb
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/VariabileSiExpresiiTest3.genruntimeconfig.cache
+/Users/simonagog/Projects/VariabileSiExpresiiTest3/VariabileSiExpresiiTest3/obj/Debug/net7.0/ref/VariabileSiExpresiiTest3.dll

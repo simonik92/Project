@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7DECC70C-AD35-48DF-AC16-193979B15EF6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnumerariSiStructuriTest2-3/Program.cs">
+    <Files>
+      <File FileName="EnumerariSiStructuriTest2-3/Program.cs" Line="123" Column="13" />
+      <File FileName="../EnumerariSiStructuriTest2-2/EnumerariSiStructuriTest2-2/Program.cs" Line="5" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnumerariSiStructuriTest2-3" expanded="True">
+            <Node name="EnumerariSiStructuriTest2-3" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EnumerariSiStructuriTest2-3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

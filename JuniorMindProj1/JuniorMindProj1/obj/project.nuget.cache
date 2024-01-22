@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKLQxsC8XvHFcsJOnt9bOg1ABhdaVJXfwFIm5BD/U36T6noW0NZsd50YB1dYwqDhJ8betoFtVZcDj2siOniqlQ==",
+  "success": true,
+  "projectFilePath": "/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/JuniorMindProj1.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonagog/.nuget/packages/microsoft.codeanalysis.netanalyzers/7.0.4/microsoft.codeanalysis.netanalyzers.7.0.4.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/roslynator.analyzers/4.5.0/roslynator.analyzers.4.5.0.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/sonaranalyzer.csharp/9.11.0.78383/sonaranalyzer.csharp.9.11.0.78383.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

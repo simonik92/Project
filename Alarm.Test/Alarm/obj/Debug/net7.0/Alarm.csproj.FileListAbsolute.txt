@@ -1,0 +1,12 @@
+/Users/simonagog/Projects/Alarm.Test/Alarm/bin/Debug/net7.0/Alarm.deps.json
+/Users/simonagog/Projects/Alarm.Test/Alarm/bin/Debug/net7.0/Alarm.dll
+/Users/simonagog/Projects/Alarm.Test/Alarm/bin/Debug/net7.0/Alarm.pdb
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/Alarm.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/Alarm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/Alarm.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/Alarm.AssemblyInfo.cs
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/Alarm.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/Alarm.dll
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/refint/Alarm.dll
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/Alarm.pdb
+/Users/simonagog/Projects/Alarm.Test/Alarm/obj/Debug/net7.0/ref/Alarm.dll

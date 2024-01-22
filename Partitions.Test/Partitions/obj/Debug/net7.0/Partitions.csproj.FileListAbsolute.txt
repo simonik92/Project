@@ -1,0 +1,12 @@
+/Users/simonagog/Projects/Partitions.Test/Partitions/bin/Debug/net7.0/Partitions.deps.json
+/Users/simonagog/Projects/Partitions.Test/Partitions/bin/Debug/net7.0/Partitions.dll
+/Users/simonagog/Projects/Partitions.Test/Partitions/bin/Debug/net7.0/Partitions.pdb
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/Partitions.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/Partitions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/Partitions.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/Partitions.AssemblyInfo.cs
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/Partitions.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/Partitions.dll
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/refint/Partitions.dll
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/Partitions.pdb
+/Users/simonagog/Projects/Partitions.Test/Partitions/obj/Debug/net7.0/ref/Partitions.dll

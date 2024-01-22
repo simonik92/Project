@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1F61DDD6-C37B-4C86-B4E1-E18D6DF16AC8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoccerTeamsRanking.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="SoccerTeamsRanking.Test/UnitTest1.cs" Line="8" Column="42" />
+      <File FileName="SoccerTeamsRanking/MyClass.cs" Line="24" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoccerTeamsRanking.Test" expanded="True">
+            <Node name="SoccerTeamsRanking" expanded="True" />
+            <Node name="SoccerTeamsRanking.Test" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SoccerTeamsRanking.Test" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SoccerTeamsRanking.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

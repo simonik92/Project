@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1F83A557-946D-4759-BAC0-0EFB223992A8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PlayGround PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayGround/Program.cs">
+    <Files>
+      <File FileName="PlayGround/Program.cs" Line="41" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlayGround" expanded="True">
+            <Node name="PlayGround" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{74320203-64AD-4562-986C-4579D41A095F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RecursivitateTest2-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecursivitateTest2-2/Program.cs">
+    <Files>
+      <File FileName="RecursivitateTest2-2/Program.cs" Line="5" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecursivitateTest2-2" expanded="True">
+            <Node name="RecursivitateTest2-2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidareaDatelor4-3", "ValidareaDatelor4-3\ValidareaDatelor4-3.csproj", "{F7A4D21B-F32E-4980-9E8C-2AAAC0445724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A4D21B-F32E-4980-9E8C-2AAAC0445724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A4D21B-F32E-4980-9E8C-2AAAC0445724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A4D21B-F32E-4980-9E8C-2AAAC0445724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A4D21B-F32E-4980-9E8C-2AAAC0445724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B53B04-9AAF-4760-A988-E64952D9ADEE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{E2A653B8-7092-4A32-8793-5E5A68A86DC8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Partitions/Program.cs">
+    <Files>
+      <File FileName="Partitions.Test/UnitTest1.cs" Line="20" Column="28" />
+      <File FileName="Partitions/Program.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Partitions.Test" expanded="True">
+            <Node name="Partitions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Partitions.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Partitions.Test">
+            <Node name="Partitions.Test">
+              <Node name="Partitions.Test">
+                <Node name="UnitTest1">
+                  <Node name="Partition_Number7 - c579b757-574f-4538-cc8b-97cedd86eed7" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Partitions.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

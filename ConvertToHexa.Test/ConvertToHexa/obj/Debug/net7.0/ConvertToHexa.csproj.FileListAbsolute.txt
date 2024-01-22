@@ -1,0 +1,12 @@
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/bin/Debug/net7.0/ConvertToHexa.deps.json
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/bin/Debug/net7.0/ConvertToHexa.dll
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/bin/Debug/net7.0/ConvertToHexa.pdb
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/ConvertToHexa.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/ConvertToHexa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/ConvertToHexa.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/ConvertToHexa.AssemblyInfo.cs
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/ConvertToHexa.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/ConvertToHexa.dll
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/refint/ConvertToHexa.dll
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/ConvertToHexa.pdb
+/Users/simonagog/Projects/ConvertToHexa.Test/ConvertToHexa/obj/Debug/net7.0/ref/ConvertToHexa.dll

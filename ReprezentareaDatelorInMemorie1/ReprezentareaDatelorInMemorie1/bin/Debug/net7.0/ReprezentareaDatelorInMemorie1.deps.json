@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ReprezentareaDatelorInMemorie1/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.NetAnalyzers": "7.0.4",
+          "Roslynator.Analyzers": "4.6.1",
+          "SonarAnalyzer.CSharp": "9.12.0.78982",
+          "StyleCop.Analyzers": "1.1.118"
+        },
+        "runtime": {
+          "ReprezentareaDatelorInMemorie1.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.NetAnalyzers/7.0.4": {},
+      "Roslynator.Analyzers/4.6.1": {},
+      "SonarAnalyzer.CSharp/9.12.0.78982": {},
+      "StyleCop.Analyzers/1.1.118": {}
+    }
+  },
+  "libraries": {
+    "ReprezentareaDatelorInMemorie1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.NetAnalyzers/7.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qkdUzgth6IBtGvGjII8PZ1B+dfXZ4VPXzlIGeE444vJlih/cVFTCTzF2ZY9s1buK1yLnkkDcTVGH2kyUWbyPTw==",
+      "path": "microsoft.codeanalysis.netanalyzers/7.0.4",
+      "hashPath": "microsoft.codeanalysis.netanalyzers.7.0.4.nupkg.sha512"
+    },
+    "Roslynator.Analyzers/4.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SDnYINWUo4n7/OsU2+ygeYexLWZ7KoMIfuNVY4V0S7ANVNHeg9YgEpK7G0zlTJmvWdIuoc0A85zZoyIyRj+Tag==",
+      "path": "roslynator.analyzers/4.6.1",
+      "hashPath": "roslynator.analyzers.4.6.1.nupkg.sha512"
+    },
+    "SonarAnalyzer.CSharp/9.12.0.78982": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QxhfMFCNeZWP3gP/R8QM3MuDWm+Esj8Lt3oD61tid5TPuqsaKJtwMZNZWE2FOqqGuKlu3805o8MlkTWBL75skA==",
+      "path": "sonaranalyzer.csharp/9.12.0.78982",
+      "hashPath": "sonaranalyzer.csharp.9.12.0.78982.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
+    }
+  }
+}

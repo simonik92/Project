@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/bin/Debug/net7.0/CautareSiOrdonareTest2-4
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/bin/Debug/net7.0/CautareSiOrdonareTest2-4.deps.json
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/bin/Debug/net7.0/CautareSiOrdonareTest2-4.runtimeconfig.json
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/bin/Debug/net7.0/CautareSiOrdonareTest2-4.dll
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/bin/Debug/net7.0/CautareSiOrdonareTest2-4.pdb
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/CautareSiOrdonareTest2-4.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/CautareSiOrdonareTest2-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/CautareSiOrdonareTest2-4.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/CautareSiOrdonareTest2-4.AssemblyInfo.cs
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/CautareSiOrdonareTest2-4.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/CautareSiOrdonareTest2-4.dll
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/refint/CautareSiOrdonareTest2-4.dll
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/CautareSiOrdonareTest2-4.pdb
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/CautareSiOrdonareTest2-4.genruntimeconfig.cache
+/Users/simonagog/Projects/CautareSiOrdonareTest2-4/CautareSiOrdonareTest2-4/obj/Debug/net7.0/ref/CautareSiOrdonareTest2-4.dll

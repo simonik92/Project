@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/bin/Debug/net7.0/RecursivitateTest2-1
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/bin/Debug/net7.0/RecursivitateTest2-1.deps.json
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/bin/Debug/net7.0/RecursivitateTest2-1.runtimeconfig.json
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/bin/Debug/net7.0/RecursivitateTest2-1.dll
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/bin/Debug/net7.0/RecursivitateTest2-1.pdb
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/RecursivitateTest2-1.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/RecursivitateTest2-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/RecursivitateTest2-1.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/RecursivitateTest2-1.AssemblyInfo.cs
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/RecursivitateTest2-1.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/RecursivitateTest2-1.dll
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/refint/RecursivitateTest2-1.dll
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/RecursivitateTest2-1.pdb
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/RecursivitateTest2-1.genruntimeconfig.cache
+/Users/simonagog/Projects/RecursivitateTest2-1/RecursivitateTest2-1/obj/Debug/net7.0/ref/RecursivitateTest2-1.dll

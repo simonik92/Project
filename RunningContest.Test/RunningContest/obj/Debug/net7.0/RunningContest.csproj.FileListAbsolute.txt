@@ -1,0 +1,12 @@
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/bin/Debug/net7.0/RunningContest.deps.json
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/bin/Debug/net7.0/RunningContest.dll
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/bin/Debug/net7.0/RunningContest.pdb
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/RunningContest.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/RunningContest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/RunningContest.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/RunningContest.AssemblyInfo.cs
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/RunningContest.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/RunningContest.dll
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/refint/RunningContest.dll
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/RunningContest.pdb
+/Users/simonagog/Projects/RunningContest.Test/RunningContest/obj/Debug/net7.0/ref/RunningContest.dll

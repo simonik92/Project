@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O0ssuVZbwPnGsiJB1nfM/EIQFFI0rq9mcaRM9xHcWkl070xxwM3Y3JWBPmiy4qFvds/52TC6lLXc9zZKiGlOgw==",
+  "success": true,
+  "projectFilePath": "/Users/simonagog/Projects/ValidareaDatelorTest3-3/ValidareaDatelorTest3-3/ValidareaDatelorTest3-3.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonagog/.nuget/packages/microsoft.codeanalysis.netanalyzers/7.0.4/microsoft.codeanalysis.netanalyzers.7.0.4.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/roslynator.analyzers/4.5.0/roslynator.analyzers.4.5.0.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/sonaranalyzer.csharp/9.11.0.78383/sonaranalyzer.csharp.9.11.0.78383.nupkg.sha512",
+    "/Users/simonagog/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

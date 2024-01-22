@@ -1,0 +1,12 @@
+/Users/simonagog/Projects/Domino.Test/Domino/bin/Debug/net7.0/Domino.deps.json
+/Users/simonagog/Projects/Domino.Test/Domino/bin/Debug/net7.0/Domino.dll
+/Users/simonagog/Projects/Domino.Test/Domino/bin/Debug/net7.0/Domino.pdb
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/Domino.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/Domino.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/Domino.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/Domino.AssemblyInfo.cs
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/Domino.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/Domino.dll
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/refint/Domino.dll
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/Domino.pdb
+/Users/simonagog/Projects/Domino.Test/Domino/obj/Debug/net7.0/ref/Domino.dll

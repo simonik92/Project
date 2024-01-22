@@ -1,0 +1,15 @@
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/bin/Debug/net7.0/JuniorMindProj1
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/bin/Debug/net7.0/JuniorMindProj1.deps.json
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/bin/Debug/net7.0/JuniorMindProj1.runtimeconfig.json
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/bin/Debug/net7.0/JuniorMindProj1.dll
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/bin/Debug/net7.0/JuniorMindProj1.pdb
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/JuniorMindProj1.csproj.AssemblyReference.cache
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/JuniorMindProj1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/JuniorMindProj1.AssemblyInfoInputs.cache
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/JuniorMindProj1.AssemblyInfo.cs
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/JuniorMindProj1.csproj.CoreCompileInputs.cache
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/JuniorMindProj1.dll
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/refint/JuniorMindProj1.dll
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/JuniorMindProj1.pdb
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/JuniorMindProj1.genruntimeconfig.cache
+/Users/simonagog/Projects/JuniorMindProj1/JuniorMindProj1/obj/Debug/net7.0/ref/JuniorMindProj1.dll
